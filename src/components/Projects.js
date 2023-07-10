@@ -12,8 +12,7 @@ const Projects = () => {
             <div className="content">
               <p className="heading">E-commerce website</p>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipii voluptas ten mollitia pariatur odit, ab minus ratione
-                adipisci accusamus vel est excepturi laboriosam magnam necessitatibus dignissimos molestias.
+                An e-commerce web application with payment integrations, products filtering, categorization, and inventory management. 
               </p>
             </div>
           </div>
@@ -25,8 +24,7 @@ const Projects = () => {
             <div className="content">
               <p className="heading">Saving mobile app</p>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipii voluptas ten mollitia pariatur odit, ab minus ratione
-                adipisci accusamus vel est excepturi laboriosam magnam necessitatibus dignissimos molestias.
+                A cross-platform financial management application that allow users to track their savings and send money through M-Pesa.
               </p>
             </div>
           </div>
@@ -38,8 +36,7 @@ const Projects = () => {
             <div className="content">
               <p className="heading">Grocery app</p>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipii voluptas ten mollitia pariatur odit, ab minus ratione
-                adipisci accusamus vel est excepturi laboriosam magnam necessitatibus dignissimos molestias.
+                A grocery shopping web application that allow customers to shop for wide range of products. Payment gateways fully integrated.
               </p>
             </div>
           </div>
