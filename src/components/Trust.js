@@ -22,11 +22,11 @@ const Trust = () => {
           );
         })}
       </div>
-      <div className="trust-btn">
-        <Link to="/contact" className="btn">
-          Contact Us
-        </Link>
-      </div>
+      // <div className="trust-btn">
+      //   <Link to="/contact" className="btn">
+      //     Contact Us
+      //   </Link>
+      // </div>
     </section>
   );
 };
