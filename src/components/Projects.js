@@ -3,7 +3,7 @@ import Title from "./Title";
 
 const Projects = () => {
   return (
-    <section className="section bg-grey" style={{paddingTop:"48px"}}>
+    <section className="section bg-grey" >
       <Title title="recent projects" />
       <div className="card-center">
         <div className="card-container">
