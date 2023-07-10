@@ -28,7 +28,7 @@ export default About;
 
 const data = {
   title: "about us",
-  info: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem esse natus eum nihil reprehenderit minima, dolor excepturi officiis ipsa voluptas.",
+  info: "At our company, we offer a comprehensive suite of services to cater to your business needs and help you achieve your goals.",
   stack: [
     {
       id: 1,
