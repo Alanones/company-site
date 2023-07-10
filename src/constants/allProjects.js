@@ -5,7 +5,7 @@ export const services = [
     facebook: "https://facebook.com/",
     linkedin: "https://www.linkedin.com/in/",
     description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus provident delectus consequatur et minus exercitationem, dolore tempora ipsa enim maxime.",
+      "Our expert team of software developers excels in crafting customized software solutions tailored to meet your unique business requirements. From ideation to implementation, we provide end-to-end development services, ensuring high-quality, scalable, and efficient software solutions that drive your business growth.",
     featured: true,
     stack: [
       {
@@ -28,8 +28,7 @@ export const services = [
     title: "Mobile app development",
     facebook: "https://facebook.com/",
     github: "https://github.com/",
-    description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus provident delectus consequatur et minus exercitationem, dolore tempora ipsa enim maxime.",
+    description: "With the ever-increasing popularity of smartphones, having a mobile app for your business is crucial. Our skilled mobile app developers specialize in creating intuitive and feature-rich applications for both iOS and Android platforms. We leverage the latest technologies to deliver user-friendly and engaging mobile experiences that connect you with your target audience."
     featured: true,
     stack: [
       {
@@ -53,7 +52,7 @@ export const services = [
     facebook: "https://facebook.com/",
     linkedin: "https://www.linkedin.com/in/",
     description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus provident delectus consequatur et minus exercitationem, dolore tempora ipsa enim maxime.",
+      "Our design team brings creativity and innovation to every project, ensuring visually stunning and user-centric designs. Whether it's creating a captivating website interface, designing a compelling logo, or developing an engaging user experience (UX), we strive to enhance your brand identity and leave a lasting impression on your audience."
     featured: true,
     stack: [
       {
@@ -72,8 +71,7 @@ export const services = [
     title: "Content writing",
     facebook: "https://facebook.com/",
     linkedin: "https://www.linkedin.com/in/",
-    description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus provident delectus consequatur et minus exercitationem, dolore tempora ipsa enim maxime.",
+    description:"ompelling and well-crafted content is vital for engaging your audience and driving conversions. Our talented team of content writers delivers high-quality content that is tailored to your brand's voice and style. From website copy and blog posts to social media content and marketing materials, we provide persuasive and informative content that resonates with your target audience."
     featured: false,
     stack: [
       {
@@ -92,8 +90,7 @@ export const services = [
     title: "Marketing",
     facebook: "https://facebook.com/",
     linkedin: "https://www.linkedin.com/in/",
-    description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus provident delectus consequatur et minus exercitationem, dolore tempora ipsa enim maxime.",
+    description:"In today's competitive digital landscape, effective marketing strategies are essential for reaching and engaging your customers. Our marketing experts develop comprehensive plans to enhance your online presence, increase brand awareness, and drive targeted traffic to your business. From search engine optimization (SEO) and social media marketing to email campaigns and paid advertising, we leverage various channels to maximize your marketing efforts."
     featured: true,
     stack: [
       {
