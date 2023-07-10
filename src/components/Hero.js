@@ -8,8 +8,7 @@ const Hero = () => {
         <div className="hero-box">
           <h1 className="hero-heading">Automate your processess with us.</h1>
           <p className="hero-desc">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae quibusdam quis officia vel dicta. Officia
-            facilis ipsum expedita placeat quos.
+           At our company, we offer a comprehensive suite of services to cater to your business needs and help you achieve your goals.
           </p>
           <div className="btn-box">
             <Link to="/about" className="cta-btn try">
