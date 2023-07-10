@@ -22,7 +22,7 @@ const Trust = () => {
           );
         })}
       </div>
-      <div className="trust-btn">
+      <div className="trust-btn" style={{paddingBottom:"48px"}}>
         <Link to="/contact" className="btn">
           Contact Us
         </Link>
