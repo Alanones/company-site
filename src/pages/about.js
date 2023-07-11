@@ -2,13 +2,15 @@ import React from "react";
 import Title from "../components/Title";
 import about from "../../static/images/about.jpg";
 import Layout from "../components/Layout";
+import { StaticImage } from "gatsby-plugin-image"
+
 const About = () => {
   const { title, info, stack } = data;
   return (
     <Layout>
       <section className="about-page">
         <div className="section-center about-center">
-          <img src={about} alt={title} className="about-img-svg" />
+    <StaticImage src="../static/images/about.jpg" alt="A dinosaur" className="about-img-svg" />
           <article className="about-text">
             <Title title={title} />
             <p>{info}</p>
