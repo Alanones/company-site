@@ -10,7 +10,7 @@ const About = () => {
     <Layout>
       <section className="about-page">
         <div className="section-center about-center">
-    <StaticImage src="../static/images/about.jpg" alt="A dinosaur" className="about-img-svg" />
+    <StaticImage src="../../static/images/about.jpg" alt="About us" className="about-img-svg" />
           <article className="about-text">
             <Title title={title} />
             <p>{info}</p>
