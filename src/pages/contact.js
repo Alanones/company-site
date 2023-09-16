@@ -13,10 +13,10 @@ const contact = () => {
           </h3>
           <p>Let's create something together</p>
           <p>
-            <FaMailBulk /> info@opillis.co.ke
+            <FaMailBulk /> info@opillis.com
           </p>
           <p>
-            <FaMobile /> +254 794 599 270
+            <FaMobile /> +254-555-123-4567
           </p>
         </article>
         <article className="contact-form">
